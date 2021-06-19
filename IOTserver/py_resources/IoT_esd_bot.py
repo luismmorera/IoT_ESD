@@ -1,7 +1,7 @@
 import requests
 import json
 
-BOT_TOKEN='1855914134:AAFCJIIECMVy8uZMp7NT5yWV9umvBehKHYU'
+BOT_TOKEN='token given by the Father Bot'
 LONG_POLLING_TIMEOUT = 20
 REQUEST_TIMEOUT = LONG_POLLING_TIMEOUT * 2
 
